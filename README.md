@@ -1,6 +1,6 @@
 ## Hey there, I'm Tom King'ori 👋 
 
-### I'm a Student, Developer, and Tech enthusiast!!
+### I'm a Developer and Tech enthusiast!!
 
 - 🔭 Working on building my portfolio
 - 🌱 I’m currently learning AWS
