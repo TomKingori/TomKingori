@@ -4,7 +4,7 @@
 
 - 🔭 Working on building my portfolio
 - 🌱 I’m currently learning AWS
-- 👯 I’m looking to collaborate on Frontend and Backend Python projects
+- 👯 I’m looking to collaborate on Frontend and Backend Django and Node.js projects
 - 🥅 2022 Goals: Learn more about web development
 - 📬 You can reach me at <a href="tomkingori66@gmail.com">tomkingori66@gmail.com.com</a>
 - ⚡ Fun fact: I love to draw and can also do graphic design and 3d animations
