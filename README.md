@@ -2,8 +2,7 @@
 
 ### I'm a Developer and Tech enthusiast!!
 
-- 🔭 Working on building my portfolio
-- 🌱 I’m currently learning React-Native
+- 🌱 Currently learning React-Native
 - 👯 I’m looking to collaborate on React/React-Native projects
 - 📬 You can reach me at <a href="tomkingori66@gmail.com">tomkingori66@gmail.com.com</a>
 - ⚡ Fun fact: I love to draw and can also do graphic design and 3d animations
