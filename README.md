@@ -7,7 +7,7 @@
 - 📬 You can reach me at <a href="tomkingori66@gmail.com">tomkingori66@gmail.com.com</a>
 - ⚡ Fun fact: I love to draw and can also do graphic design and 3d animations
 
-
+<!-- 
 ### Languages and Tools:
 
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
@@ -22,7 +22,7 @@
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg#gh-light-mode-only" />
 <img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg#gh-dark-mode-only" />
-
+-->
 
 <br />
 <br />
